@@ -10,8 +10,7 @@ public class Game {
     misses = "";
   }
 
-  public String getDope(){ return "s";};
-  
+
   public String getAnswer(){
     return answer;
   }
